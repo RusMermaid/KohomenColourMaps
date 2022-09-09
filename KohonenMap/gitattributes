@@ -1,0 +1,5 @@
+*.godot linguist-language=C#
+*.tscn linguist-language=C#
+*.tres linguist-language=C#
+*.gd linguist-language=C#
+*.png.import linguist-language=C++
