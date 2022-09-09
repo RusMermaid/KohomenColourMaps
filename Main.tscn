@@ -1,0 +1,17 @@
+[gd_scene format=2]
+
+[node name="Main" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+margin_left = 174.0
+margin_top = 108.0
+margin_right = 214.0
+margin_bottom = 122.0
+text = "You can check and use the KMeans and KohonenMap Nodes
+
+You need to call set_data, init and then call a certain amount of times the step function
+
+Please note it works only with Vector2, but you can adapt the code easely !"
+__meta__ = {
+"_edit_use_anchors_": false
+}
